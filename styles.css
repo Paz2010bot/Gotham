@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+    --box-shadow: 0px 15px 30px 0px rgba(63, 42, 146, 0.08);
+    --grey: #39464c;
+    --font-family: "Work Sans";
+}
